@@ -5,10 +5,9 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 Try running some of the following tasks:
 
 ```shell
-npx hardhat help
+git clone git@github.com:ipromise2324/311551185-bdaf-lab7.git
+npm install
 npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
 ```
+
 # 311551185-bdaf-lab7
