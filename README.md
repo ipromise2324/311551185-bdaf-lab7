@@ -9,6 +9,10 @@ Write a test script that simulates two actors that do the following actions:
   - There are some setup required : )
 - Alice tries to withdraw, what happens here?
 
+# Flow chart
+<img width="501" alt="image" src="https://github.com/ipromise2324/311551185-bdaf-lab7/assets/87699256/a17e0d0d-c418-4e02-8f76-3055f40c6ee4">
+
+# Intall
 ```shell
 git clone git@github.com:ipromise2324/311551185-bdaf-lab7.git
 npm install
