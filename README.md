@@ -18,3 +18,5 @@ git clone git@github.com:ipromise2324/311551185-bdaf-lab7.git
 npm install
 npx hardhat test
 ```
+# Result
+<img width="1176" alt="image" src="https://github.com/ipromise2324/311551185-bdaf-lab7/assets/87699256/eef4e9c7-80db-4341-9092-e9016e95189a">
